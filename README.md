@@ -1,7 +1,7 @@
 # Deleted-Multiliveries
 Hi there!
 This is an addon which is almost identical to MultiLiveries otherwise known as Geofs-Multiliveries, ML or Geo-ML
-The only difference is that this uses the "rejected" or liveries which have not passed voting and therefore have not been added
+The only difference is that this uses the "rejected liveries" or liveries which have not passed voting and therefore have not been added
 # How can we submit liveries?
 Well... it's kinda complicated
 First, you need to make a fictional livery, personal livery, "out of model" livery etc... for Multiliveries
