@@ -1,6 +1,6 @@
 console.log("Loading...");
 let livObj;
- await fetch("https://raw.githubusercontent.com/Lukeghrhgfhgh/Deleted-Multiliveries/main/dependencies/liveries.json")
+ await fetch("https://raw.githubusercontent.com/Lukeghrhgfhgh/Deleted-Multiliveries/main/Dependencies/Liveries.json")
  .then(res => res.json())
  .then(data => livObj = data) 
 
