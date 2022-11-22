@@ -7,10 +7,10 @@ Well... it's kinda complicated
 First, you need to make a fictional livery, personal livery, "out of model" livery etc... for Multiliveries
 Then, it needs to be put into voting which can take several hours to many weeks if you're unlucky
 Now it needs to be rejected, otherwise it will be put into the ML livery which can be found here:https://github.com/Spice9/Geofs-Multiliveries
-To submit liveries to ml, join ml'S discord here: https://discord.gg/KSgp5YQ622 (This is already on the ML github page but do not use the issues page to submit liveries)
+To submit liveries to ml, join ML's discord here: https://discord.gg/KSgp5YQ622 (This is already on the ML github page but do not use the issues page to submit liveries)
 # Regarding broken liveries...
 Please note that this is a common thing and can be found in other addons such as ML, LiverySelector etc...
 Please inform us by using an issue and luke will hopefully fix it soon...
 # Thank you for using our addon
-# Best Regards,
-# BoeingBus747
+Best Regards,
+BoeingBus747
