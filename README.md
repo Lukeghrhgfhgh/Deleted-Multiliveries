@@ -15,5 +15,5 @@ Please inform us by using an issue and luke will hopefully fix it soon...
 Liveries may not be added if they're for a contributer who did not ask for their liveries to be in other addons so we need to get your permission first
 # Thank you for using our addon
 Best Regards,
-BoeingBus747
-
+Collaborators of Deleted-Multiliveries
+# Please do not use the issues page for no reason #
