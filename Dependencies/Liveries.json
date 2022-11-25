@@ -298,10 +298,6 @@
                     "name": "Thai Airways",
                     "texture": ["/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_45.jpg"]
                 },
-	        {
-		    "name": "Cathay Pacific LS by Izem-Bro-Emiz"
-		    "texture": ["https://raw.githubusercontent.com/BoeingBus747/GitStorage/main/203611794-b53234f1-ea32-41a5-a10e-6cb934a5d172.png"]
-	        }
             ]
         },
 	    
