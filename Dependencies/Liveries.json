@@ -1,3 +1,7 @@
 { "aircraft": [
-  
+  {
+    "name": "Boeing 787-9 Cebu Pacific Messiah by PilotKetchum2002",
+    "livery": "https://raw.githubusercontent.com/BoeingBus747/GitStorage/main/203494043-ab29a8fc-8e9e-47e7-81dd-806f1f5365aa.jpg",
+    "mptx": "https://raw.githubusercontent.com/BoeingBus747/GitStorage/main/203494043-ab29a8fc-8e9e-47e7-81dd-806f1f5365aa.jpg"
+  }
   ]}
