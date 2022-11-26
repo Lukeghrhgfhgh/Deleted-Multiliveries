@@ -1,6 +1,6 @@
 # Deleted-Multiliveries (not to be confused with Geofs-Multiliveries)
 Hi there!
-This is an addon which is almost identical to LiverySelector (not ML) otherwise known as Geofs-Multiliveries, ML or Geo-ML.
+This is an addon which is almost identical to Multiliveries otherwise known as Geofs-Multiliveries, ML or Geo-ML.
 The only difference is that this uses the "rejected liveries" or liveries which have not passed voting and therefore have not been added.
 # How can we submit liveries?
 Well... it's kinda complicated
