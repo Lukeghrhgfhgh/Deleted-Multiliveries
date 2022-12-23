@@ -12,7 +12,7 @@ function resetPanel() {
     Multiliveries
     <ul class = "geofs-collapsible geofs-list geofs-toggle-panel geofs-preferences geofs-stopMousePropagation geofs-stopKeyupPropagation geofs-stopKeyboardPropagation" data-onshow="{geofs.initializePreferencesPanel()}" data-onhide="{geofs.savePreferencesPanel()}" data-noblur="true"">
       <div id="innerLiveryPanel">
-        <p id="title">Multiliveries Menu</p>
+        <p id="title">DeletedMultiliveries Menu</p>
         <input id="searchquery", class = "mdl-textfield__input geofs-stopKeyboardPropagation"></input>
         <button onclick="sBa()", id="search">Search</button>
         <div id="selectionPanel"></div>
