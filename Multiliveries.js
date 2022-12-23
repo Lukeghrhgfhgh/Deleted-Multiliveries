@@ -9,7 +9,7 @@ let updateMultiplayer = function() {};
 function resetPanel() {
   liveryPanelML.innerHTML = `
   <li class = "geofs-list-collapsible-item geofs-notstudent-role">
-    Multiliveries
+    DeletedMultiliveries
     <ul class = "geofs-collapsible geofs-list geofs-toggle-panel geofs-preferences geofs-stopMousePropagation geofs-stopKeyupPropagation geofs-stopKeyboardPropagation" data-onshow="{geofs.initializePreferencesPanel()}" data-onhide="{geofs.savePreferencesPanel()}" data-noblur="true"">
       <div id="innerLiveryPanel">
         <p id="title">DeletedMultiliveries Menu</p>
